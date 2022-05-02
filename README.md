@@ -1,6 +1,69 @@
 [![Build Status](https://travis-ci.org/norberteder/trello.svg?branch=master)](https://travis-ci.org/norberteder/trello)
 
 # trello
+## Hola. Para LaunchX
+### Mis comentarios:
+
+```
+"dependencies": {
+    "dotenv": "^16.0.0",
+    "es6-promise": "^4.2.8",
+    "needle": "3.0.0",
+    "object-assign": "~4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3",
+    "chai": "^4.3.4",
+    "sinon": "^12.0.1",
+    "sinon-chai": "^3.7.0",
+    "q": "1.5.1"
+```
+```
+el archivo principal es main.js
+```
+```
+esta usando Common JS
+```
+```
+El framework de pruebas es "mocha"
+```
+```
+Commits revisados del repositorio original, empezo desde el 2012 hasta noviembre del 2021 ha tenido contribuciones varias de parte de:
+"contributors": [
+    {
+      "name": "Graeme Foster",
+      "email": "graemef@gmail.com"
+    },
+    {
+      "name": "Mike Beasley",
+      "email": "mbeasley@emcien.com"
+    },
+    {
+      "name": "Dario Kondratiuk",
+      "email": "dariokondratiuk@gmail.com"
+    },
+    {
+      "name": "Sean Madden",
+      "email": "sdm350@gmail.com"
+    },
+    {
+      "name": "Siôn Le Roux",
+      "email": "sinisterstuf@gmail.com"
+    },
+    {
+      "name": "Mike Garuccio",
+      "url": "https://github.com/mgaruccio"
+    },
+    {
+      "name": "Karel Piwko",
+      "url": "https://github.com/kpiwko"
+    },
+    {
+      "name": "Aaron Sherrill",
+      "url": "https://github.com/motionharvest"
+    }
+  ]
+```
 ## A simple asynchronous client for [Trello](http://www.trello.com)
 
 This is a wrapper for some of the Trello HTTP API. Please feel free to add any other pieces you need! :)
